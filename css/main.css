@@ -1,0 +1,12 @@
+body {
+  border: 5px solid red;
+}
+
+.close {
+  color: orange;
+  font-size: .8rem;
+  line-height: 1.5;
+  font-weight: bold;
+  border: 1px solid orange;
+  text-transform: uppercase;
+}
