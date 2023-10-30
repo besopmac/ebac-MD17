@@ -1,3 +1,8 @@
+body {
+  min-height: 100%;
+  padding-bottom: 4rem;
+}
+
 .close {
   color: orange;
   font-size: .8rem;
@@ -18,4 +23,10 @@
   height: 100%;
   object-fit: cover;
   border-radius: 10px;
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  position: fixed;
 }
